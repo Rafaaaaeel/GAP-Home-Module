@@ -1,0 +1,32 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Error: teste" : {
+
+    },
+    "Games" : {
+
+    },
+    "home_1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello Home! Fuc*"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Ola Casa!"
+          }
+        }
+      }
+    },
+    "Loading..." : {
+
+    }
+  },
+  "version" : "1.0"
+}
